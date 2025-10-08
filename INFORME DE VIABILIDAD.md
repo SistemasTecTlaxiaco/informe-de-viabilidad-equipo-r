@@ -5,8 +5,12 @@
 **Fecha:** [Fecha de elaboración]  
 **Versión:** 1.0
 
+---
+
 ### 1. Resumen Ejecutivo
 Herbamed es un proyecto de plataforma digital (web y móvil) dedicada a la consulta, registro y comercialización responsable de plantas medicinales mexicanas. Tras un análisis exhaustivo de los aspectos técnicos, económicos, operativos, legales y temporales, se confirma la viabilidad integral del proyecto. La iniciativa busca preservar y digitalizar el conocimiento tradicional herbolario, combinando validación científica con accesibilidad moderna. Se estima un retorno de inversión (ROI) del 35% en el primer año, con un período de recuperación de la inversión de 14 meses.
+
+---
 
 ### 2. Descripción General del Proyecto
 
@@ -32,6 +36,8 @@ México posee una riqueza ancestral en herbolaria; sin embargo, la información 
 - Estudiantes y académicos (investigadores, docentes).
 - Productores y comerciantes de herbolaria.
 - Público general interesado en medicina tradicional y autocuidado responsable.
+
+  ---
 
 ### 3. Análisis de Viabilidad
 
@@ -92,6 +98,8 @@ México posee una riqueza ancestral en herbolaria; sin embargo, la información 
 - Lanzamiento Controlado (1 semana).
 
 **Conclusión:** Cronograma realista y alcanzable.
+
+---
 
 ### 4. Análisis de Riesgos y Mitigación
 
