@@ -2,9 +2,6 @@
 
 ## Plataforma Digital de Plantas Medicinales Mexicanas
 
-**Fecha:** [Fecha de elaboración]  
-**Versión:** 1.0
-
 ---
 
 ### 1. Resumen Ejecutivo
