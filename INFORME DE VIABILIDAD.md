@@ -108,5 +108,5 @@ México posee una riqueza ancestral en herbolaria; sin embargo, la información 
 | Fallos técnicos o de seguridad   | Media        | Medio   | Desarrollo con estándares de seguridad, pruebas rigurosas y monitoreo continuo. |
 | Competencia de aplicaciones existentes | Baja   | Medio   | Diferenciación mediante validación científica y enfoque en cultura mexicana. |
 
-### 5. Finalmete concluimos siguiente:
+### 5. Finalmete concluimos lo siguiente:
 El proyecto Herbamed es viable en todas sus dimensiones (técnica, económica, operativa, legal y temporal). Representa una oportunidad única para preservar y modernizar el conocimiento herbolario mexicano, con un modelo de negocio sostenible y potencial de crecimiento. Se recomienda proceder con la fase de desarrollo inicial.
